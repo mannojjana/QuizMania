@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/QuizMania/static/css/main.c35efe1a.css",
-    "main.js": "/QuizMania/static/js/main.b3eeff6c.js",
+    "main.js": "/QuizMania/static/js/main.95209689.js",
     "static/js/453.2b0627e5.chunk.js": "/QuizMania/static/js/453.2b0627e5.chunk.js",
     "static/media/cnbg.jpg": "/QuizMania/static/media/cnbg.3fe04bfd602d8449765c.jpg",
     "static/media/webbg.jpg": "/QuizMania/static/media/webbg.9253a7d68c559c964385.jpg",
     "static/media/osbg.jpg": "/QuizMania/static/media/osbg.0b814a080bd019958f4d.jpg",
     "index.html": "/QuizMania/index.html",
     "main.c35efe1a.css.map": "/QuizMania/static/css/main.c35efe1a.css.map",
-    "main.b3eeff6c.js.map": "/QuizMania/static/js/main.b3eeff6c.js.map",
+    "main.95209689.js.map": "/QuizMania/static/js/main.95209689.js.map",
     "453.2b0627e5.chunk.js.map": "/QuizMania/static/js/453.2b0627e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c35efe1a.css",
-    "static/js/main.b3eeff6c.js"
+    "static/js/main.95209689.js"
   ]
 }
