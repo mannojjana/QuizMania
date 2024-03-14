@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mannojjana/mannojjana.github.io/QuizMania/static/css/main.c35efe1a.css",
+    "main.js": "/mannojjana/mannojjana.github.io/QuizMania/static/js/main.a9bdae7d.js",
+    "static/js/453.2b0627e5.chunk.js": "/mannojjana/mannojjana.github.io/QuizMania/static/js/453.2b0627e5.chunk.js",
+    "static/media/cnbg.jpg": "/mannojjana/mannojjana.github.io/QuizMania/static/media/cnbg.3fe04bfd602d8449765c.jpg",
+    "static/media/webbg.jpg": "/mannojjana/mannojjana.github.io/QuizMania/static/media/webbg.9253a7d68c559c964385.jpg",
+    "static/media/osbg.jpg": "/mannojjana/mannojjana.github.io/QuizMania/static/media/osbg.0b814a080bd019958f4d.jpg",
+    "index.html": "/mannojjana/mannojjana.github.io/QuizMania/index.html",
+    "main.c35efe1a.css.map": "/mannojjana/mannojjana.github.io/QuizMania/static/css/main.c35efe1a.css.map",
+    "main.a9bdae7d.js.map": "/mannojjana/mannojjana.github.io/QuizMania/static/js/main.a9bdae7d.js.map",
+    "453.2b0627e5.chunk.js.map": "/mannojjana/mannojjana.github.io/QuizMania/static/js/453.2b0627e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c35efe1a.css",
+    "static/js/main.a9bdae7d.js"
+  ]
+}
